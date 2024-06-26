@@ -1,0 +1,33 @@
+
+ +--------------------+ 
+HASH TABLE SIZE: 1000
+Nº HASH TABLE ENTRIES: 500
+Nº HASH TABLE HEADS: 346
+Number of Collisions: 154 
+Collision ratio (%): 30.800000 
+Nº EMPTY HEADS NODES: 654
+Empty heads nodes ratio: 65.40 %
+ +--------------------+ 
+HASH TABLE SIZE: 2000
+Nº HASH TABLE ENTRIES: 1000
+Nº HASH TABLE HEADS: 675
+Number of Collisions: 325 
+Collision ratio (%): 32.500000 
+Nº EMPTY HEADS NODES: 1325
+Empty heads nodes ratio: 66.25 %
+ +--------------------+ 
+HASH TABLE SIZE: 4000
+Nº HASH TABLE ENTRIES: 2000
+Nº HASH TABLE HEADS: 1346
+Number of Collisions: 654 
+Collision ratio (%): 32.700000 
+Nº EMPTY HEADS NODES: 2654
+Empty heads nodes ratio: 66.35 %
+ +--------------------+ 
+HASH TABLE SIZE: 8000
+Nº HASH TABLE ENTRIES: 2149
+Nº HASH TABLE HEADS: 1587
+Number of Collisions: 562 
+Collision ratio (%): 26.151698 
+Nº EMPTY HEADS NODES: 6413
+Empty heads nodes ratio: 80.16 %

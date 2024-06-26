@@ -1,0 +1,11 @@
+hash_table_t ( type )
+------------------------
+contem:
+
+- hash_table_size
+- number_of_entries
+- number_of_edges
+- hash_table_node_t **heads -> array de ponteiros para hash_table_node_t -> tem hash_table_size -1 elementos
+
+
+sempre que se dá resize na hashtable, é preciso mudar os indices ( correr a hash function )
